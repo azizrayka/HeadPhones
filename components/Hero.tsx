@@ -37,7 +37,7 @@ const Hero = () => {
             rotate: 0,
             duration: 1.5,
         }).to(".headphones",{
-            x:10,
+            x:30,
             y:2920,
             width: "15%",
             duration: 1.5,
